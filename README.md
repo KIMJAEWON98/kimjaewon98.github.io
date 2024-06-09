@@ -15,6 +15,8 @@ https://waktaverse.games/gameDetail/leaf_expectcon
 <br>
 단계는 총 8단계로 마지막 단계는 합쳐지지 않습니다<br>
 <br>
+<br>
+<br>
 **[주의]**<br>
 <br>
 &#42;창모드만 존재합니다&#42;<br>
@@ -22,6 +24,9 @@ https://waktaverse.games/gameDetail/leaf_expectcon
 &#42;ESC를 누르면 실행파일을 재시작합니다&#42;<br>
 <br>
 &#42;볼륨 설정은 재시작시 초기화됩니다&#42;<br>
+<br>
+<br>
+<br>
 <br>
 **[크레딧]**<br>
 <br>
