@@ -1,5 +1,5 @@
 # kimjaewon98.github.io
-![image](https://drive.google.com/file/d/1dpKJiy6qoabM_BPuCOkEZrEzj2pwwZw7/view?usp=drive_link){: width="640px", height="903px"}<br>
+![image](https://user-images.githubusercontent.com/30232837/159294626-eef2b3c3-322c-468b-94f3-5d05939cf3e6.png){: width="640px", height="903px"}<br>
 **"이파리의 기대컨"<br>
 "GiDaeControl of Ifari"<br>
 정식 출시!<br>
