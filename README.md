@@ -3,9 +3,9 @@
 https://waktaverse.games/gameDetail/leaf_expectcon
 
 **"이파리의 기대컨"
-"GiDaeControl of Ifari"
-정식 출시!
-지금 바로 기대컨을 하며 이세계아이돌의 신곡을 기다리세요!**
+"GiDaeControl of Ifari"<br>
+정식 출시!<br>
+지금 바로 기대컨을 하며 이세계아이돌의 신곡을 기다리세요!**<br>
 
 
 
