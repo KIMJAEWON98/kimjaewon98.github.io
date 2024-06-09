@@ -1,5 +1,5 @@
 # kimjaewon98.github.io
-![image](https://waktaverse.games/img/u/d89b8c26-20ae-4597-b27f-62a8940b6c4f.png){: width="640px", height="903px"}<br>
+![image](/img/u/d89b8c26-20ae-4597-b27f-62a8940b6c4f.png){: width="640px", height="903px"}<br>
 **"이파리의 기대컨"<br>
 "GiDaeControl of Ifari"<br>
 정식 출시!<br>
