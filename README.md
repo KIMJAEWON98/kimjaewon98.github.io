@@ -1,5 +1,4 @@
 # kimjaewon98.github.io
-![image](https://cafeptthumb-phinf.pstatic.net/MjAyNDA2MDhfMTIg/MDAxNzE3ODU2MjQ4ODY2.tTTEJQqAkzOY6OjA8oN6gnissNgNTgmRJSNEx70Pk4og.cyoZ7MHIDJFK5xAXD8uJ5ATknn5llh6TQIPniYv__3Yg.PNG/%EC%9D%B4%ED%8C%8C%EB%A6%AC%EC%9D%98_%EA%B8%B0%EB%8C%80%EC%BB%A8_%EC%97%85%EB%A1%9C%EB%93%9C_%ED%8F%AC%EC%8A%A4%ED%84%B0.png?type=w1600)<br>{: .align-center}
 **"이파리의 기대컨"<br>
 "GiDaeControl of Ifari"<br>
 정식 출시!<br>
